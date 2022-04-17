@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">646790745362-82fc60itst9dfs6icc98fng098d178fm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">646790745362</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrYTDqWBGmXdDpruowkZzqL558U_CjWY4</string>
+    <string name="google_app_id" translatable="false">1:646790745362:android:7c21305d24d6063569f7cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrYTDqWBGmXdDpruowkZzqL558U_CjWY4</string>
+    <string name="google_storage_bucket" translatable="false">iot-home-automation-bd892.appspot.com</string>
+    <string name="project_id" translatable="false">iot-home-automation-bd892</string>
+</resources>

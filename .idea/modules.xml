@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iot_home_automation.iml" filepath="$PROJECT_DIR$/iot_home_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/iot_home_automation_android.iml" filepath="$PROJECT_DIR$/android/iot_home_automation_android.iml" />
+    </modules>
+  </component>
+</project>
