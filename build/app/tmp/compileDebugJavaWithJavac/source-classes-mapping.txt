@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/iot_home_automation/BuildConfig.java
- com.example.iot_home_automation.BuildConfig
