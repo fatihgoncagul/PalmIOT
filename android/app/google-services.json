@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "646790745362",
+    "firebase_url": "https://iot-home-automation-bd892-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "iot-home-automation-bd892",
     "storage_bucket": "iot-home-automation-bd892.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "646790745362-h99e8f11v0lntpscdf5anu6ili03ukgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_home_automation",
+            "certificate_hash": "4f93affbab8d0c68e05a391f4c987103a1d58bae"
+          }
+        },
         {
           "client_id": "646790745362-82fc60itst9dfs6icc98fng098d178fm.apps.googleusercontent.com",
           "client_type": 3
@@ -29,6 +38,13 @@
             {
               "client_id": "646790745362-82fc60itst9dfs6icc98fng098d178fm.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "646790745362-tfq8bf6eqt6a18u3o7jufgq1ruo0fp33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotHomeAutomation"
+              }
             }
           ]
         }
