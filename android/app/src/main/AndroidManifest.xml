@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.iot_home_automation">
-   <application
+
+    <application
         android:label="iot_home_automation"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
